@@ -16,20 +16,20 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "IN0"
-  ui[1]: "IN1"
-  ui[2]: "IN2"
-  ui[3]: "IN3"
+  ui[0]: "CIN0"
+  ui[1]: "CIN1"
+  ui[2]: "CIN2"
+  ui[3]: "CIN3"
   ui[4]: ""
   ui[5]: ""
   ui[6]: ""
   ui[7]: ""
 
   # Outputs
-  uo[0]: "OUT0"
-  uo[1]: "OUT1"
-  uo[2]: "OUT2"
-  uo[3]: "OUT3"
+  uo[0]: "COUT0"
+  uo[1]: "COUT1"
+  uo[2]: "COUT2"
+  uo[3]: "COUT3"
   uo[4]: ""
   uo[5]: ""
   uo[6]: ""
